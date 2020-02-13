@@ -10,9 +10,9 @@
 ###################################################
 
 # variables user and pass root/user
-_user="arch"
-_proot="123"
-_puser="123"
+_user="maxpi"
+_proot="15253545"
+_puser="15253545"
 
 # cores
 _r="\e[31;1m";_w="\e[37;1m";_g="\e[32;1m";_o="\e[m";
